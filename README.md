@@ -1,8 +1,7 @@
 # Credit-Card-Fraud-Detection
 Project component done as part of Data Visualization coursework.
 ## Contributers
-20BCE1004 Mizba J, 
-20BCE1240 Vemasini Varshini under the guidance of Joshan Athanesious J.
+Done by Mizba J (20BCE1004) and Vemasini Varshini (20BCE1240) under the guidance of Prof. Joshan Athanesious J.
 
 
 ## Dataset
